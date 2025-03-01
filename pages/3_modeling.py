@@ -108,7 +108,6 @@ def eval_function(df, state=None):
 
     return ""
 
-
 display_data_states(
     eval_function=eval_function, states=states, kwargs={"title": "modeling"}
 )

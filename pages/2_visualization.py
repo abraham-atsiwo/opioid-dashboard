@@ -69,7 +69,4 @@ def eval_function(df, state):
 
     return ""
 
-
-    
-
 display_data_states(states=states, eval_function=eval_function, kwargs={'title': "data visualization"})
